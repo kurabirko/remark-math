@@ -19,6 +19,7 @@
   "workspaces": [
     "packages/rehype-katex/",
     "packages/remark-math/",
+    "packages/rehype-temml/",
     "packages/rehype-mathjax/"
   ],
   "devDependencies": {
